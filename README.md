@@ -2,8 +2,8 @@
 Cryptoniumcoin is a PoS-based cryptocurrency.
 
 
-Development process
-===========================
+Development process for cryptoniumcoin
+=======================================
 
 
 Developers work in their own trees, then submit pull requests when
